@@ -6,7 +6,8 @@
 *Wohnhaft:* Furtwangen
 
 
-![Bild](C:\Windows.old.000\Users\kevin\Documents\Schule\uni\Semester4b\OpenSource\prak4\Einkaufsliste\IMG_20200205_213937.jpg)
+![Bild](https://user-images.githubusercontent.com/74317121/98845093-7e997500-244d-11eb-953f-256954afb61b.jpg)
+
 
 ## Abschnitt 2
 > Dies ist ein Test
